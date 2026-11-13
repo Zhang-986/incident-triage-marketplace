@@ -1,0 +1,20 @@
+{
+  "plugins": [
+    {
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "source": {
+        "path": "./plugins/incident-triage",
+        "source": "local"
+      },
+      "category": "Productivity",
+      "name": "incident-triage"
+    }
+  ],
+  "interface": {
+    "displayName": "Incident Triage Tools"
+  },
+  "name": "incident-triage-tools"
+}

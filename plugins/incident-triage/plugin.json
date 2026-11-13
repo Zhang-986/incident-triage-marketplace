@@ -1,0 +1,5 @@
+{
+  "description": "Correlate application logs, deployed code and database evidence for incident triage.",
+  "version": "1.0.0",
+  "name": "incident-triage"
+}
